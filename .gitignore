@@ -1,2 +1,5 @@
 *.pyc
+__pycache__
 .git
+local_settings.py
+log
